@@ -1,1 +1,2 @@
-# AUTOMATON | AUTOMATA  
+# Automaton | singular
+# Automata | plural
