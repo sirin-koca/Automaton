@@ -1,7 +1,7 @@
 # Automaton | Automata
 
 ## Finite Automaton (Finite State Machine)
-Finite automata are formal (or abstract) machines for recognizing patterns. These machines are used extensively in compilers and text editors, which must recognize patterns in the input
+Finite automata are formal (or abstract) machines for recognizing patterns. These machines are used extensively in compilers and text editors, which must recognize patterns in the input.
 
 ### Pattern recognition and generation is ubiquitous in computing:
 
