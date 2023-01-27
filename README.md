@@ -43,3 +43,5 @@ Automata is a theoretical model of a machine that can read, process, and recogni
 Formal languages are sets of strings that can be recognized by different types of automata. A formal language is a set of strings over a given alphabet, which is a finite set of symbols. For example, the set of all strings of 0s and 1s is a formal language over the binary alphabet. Formal languages can be classified into different types based on the type of automaton that can recognize them, such as regular languages, context-free languages and context-sensitive languages.
 
 In summary, Automata theory is the study of abstract machines and their computational power, while Formal languages is the study of sets of strings and the languages that can be defined from them, and how different types of automata can recognize and generate different types of languages.
+
+[sirin-koca](https://github.com/sirin-koca) | OsloMet 2023
