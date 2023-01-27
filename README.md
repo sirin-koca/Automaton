@@ -34,6 +34,7 @@ Emerging artificial intelligence technologies including computer vision and pers
   </td>
 </tr>
 </table>
+
 ---
 
 ### Automata and Formal languages are key concepts in theoretical computer science
